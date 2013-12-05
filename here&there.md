@@ -22,3 +22,5 @@
     *   Rocks+ cluster management system
 *   [SC'12 Student Cluster Competition - Learning Experiences](http://www.shanetarleton.com/sc12-student-cluster-competition-learning-experiences/) @blog
     *   <strong>very good advice</strong>
+* ASC - Google Group
+  * [ASC13 Preliminary Contest Questions（初赛方案要求） - Google 网上论坛](https://groups.google.com/forum/?hl=zh-CN#!topic/asc13/q_s1_s7ZKKI)
